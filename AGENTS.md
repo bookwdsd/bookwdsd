@@ -14,4 +14,12 @@
 - `README.md` — 人类可读完整档案（渲染在 GitHub 个人主页）
 - `llms.txt` — AI 精炼档案（llms.txt 规范）
 - `profile.json` — JSON Resume 结构化数据
+- `docs/snap.md` — Snap 项目详解（定位、架构、六阶段进度、技术难点）
+- `docs/projects.md` — Enbuild 与 Courtside 项目详解
+- `docs/experience.md` — 竞赛、社团、思政、工作方式详述
 - `AGENTS.md` — 本文件
+
+## 维护约定
+
+- 事实变更时，`README.md`、`llms.txt`、`profile.json` 三处需同步修改。
+- 新增细节优先写入 `docs/`，`llms.txt` 只保留最关键事实。
