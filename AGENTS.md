@@ -17,6 +17,7 @@
 - `docs/snap.md` — Snap 项目详解（定位、架构、六阶段进度、技术难点）
 - `docs/projects.md` — Enbuild 与 Courtside 项目详解
 - `docs/experience.md` — 竞赛、社团、思政、工作方式详述
+- `timeline.md` — 成长时间线（2023 入学 → 2026 现在 → 2027/2028 规划）
 - `AGENTS.md` — 本文件
 
 ## 维护约定

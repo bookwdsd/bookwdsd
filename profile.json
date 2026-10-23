@@ -131,7 +131,7 @@
   ],
   "interests": [
     { "name": "马克思主义理论", "keywords": ["考研", "高校教师", "思政"] },
-    { "name": "独立开发", "keywords": ["Android", "产品设计"] },
+    { "name": "独立开发", "keywords": ["Android", "产品设计", "无障碍设计", "低代码工具"] },
     { "name": "篮球", "keywords": ["训练数据分析"] }
   ],
   "references": [],
