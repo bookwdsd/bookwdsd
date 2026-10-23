@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "杨凯斐",
+    "label": "专升本在读学生 / 独立开发者",
+    "image": "",
+    "email": "3432179626@qq.com",
+    "phone": "",
+    "url": "https://github.com/bookwdsd",
+    "summary": "四平职业大学计算机应用技术专科毕业（国家奖学金、吉林省职业院校技能大赛一等奖），2026 年专升本考入通化师范学院。带队完成企业级应用框架引擎 Enbuild，独立开发 Android 应用 Snap（支付后的意义确认器）。正在备考马克思主义理论（0305）学硕，目标高校/高职专任教师。",
+    "location": {
+      "city": "长春",
+      "countryCode": "CN",
+      "region": "吉林省"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "bookwdsd",
+        "url": "https://github.com/bookwdsd"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [
+    {
+      "organization": "通化师范学院应用技术学院团委",
+      "position": "组织部部员",
+      "url": "",
+      "startDate": "2026-09",
+      "endDate": "",
+      "summary": "2026 年 9 月通过选拔进入学院团委组织部，参与团员推优与组织建设等日常工作。",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "通化师范学院（白山校区）",
+      "url": "",
+      "area": "计算机应用与技术",
+      "studyType": "本科（专升本）",
+      "startDate": "2026-09",
+      "endDate": "2028-06",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "四平职业大学",
+      "url": "",
+      "area": "计算机应用技术",
+      "studyType": "专科",
+      "startDate": "2023-09",
+      "endDate": "2026-06",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "国家奖学金（2024—2025 学年）",
+      "date": "2025-10",
+      "awarder": "中华人民共和国教育部",
+      "summary": ""
+    },
+    {
+      "title": "吉林省职业院校技能大赛 Web 前端开发赛项 一等奖",
+      "date": "2025-08",
+      "awarder": "吉林省教育厅",
+      "summary": ""
+    },
+    {
+      "title": "全国第二届职业技能大赛吉林省选拔赛 网站技术方向 第四名",
+      "date": "2025",
+      "awarder": "省级选拔赛组委会",
+      "summary": "获国赛选拔资格"
+    },
+    {
+      "title": "第九届吉林省中华职业教育创新创业大赛 三等奖",
+      "date": "2025-12",
+      "awarder": "吉林省中华职业教育社",
+      "summary": "项目：Enbuild 应用框架引擎——企业应用软件一站式解决方案"
+    },
+    {
+      "title": "“建行杯”中国国际大学生创新大赛校赛 第四名",
+      "date": "2025-06",
+      "awarder": "四平职业大学",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "前端（HTML / CSS / JavaScript）",
+      "level": "熟练（省赛一等奖背书）",
+      "keywords": ["响应式布局", "性能优化"]
+    },
+    { "name": "C", "level": "掌握（专科课程）", "keywords": [] },
+    { "name": "Python", "level": "在学", "keywords": [] },
+    { "name": "Java", "level": "在学", "keywords": [] },
+    {
+      "name": "Kotlin / Android",
+      "level": "项目实践",
+      "keywords": ["Jetpack Compose", "Room", "AccessibilityService"]
+    }
+  ],
+  "languages": [
+    { "language": "中文", "fluency": "母语" }
+  ],
+  "interests": [
+    { "name": "马克思主义理论", "keywords": ["考研", "高校教师"] },
+    { "name": "独立开发", "keywords": ["Android", "产品"] }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Snap — 支付后的意义确认器",
+      "description": "Android 应用：通过 AccessibilityService 检测支付完成页，弹出悬浮窗引导用户记录每笔支付的意义与分类，把消费决策可视化。",
+      "highlights": [
+        "AccessibilityService 检测支付页，悬浮窗交互引导补充分类与备注",
+        "Room 本地存储，待处理队列组织未分类交易",
+        "按六阶段推进，当前阶段四：账户识别、推送、资金来源"
+      ],
+      "keywords": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Room",
+        "AccessibilityService",
+        "NotificationListenerService"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": ["独立开发者"],
+      "entity": "",
+      "type": "application"
+    },
+    {
+      "name": "Enbuild 应用框架引擎——企业应用软件一站式解决方案",
+      "description": "面向中小企业的后台系统快速生成工具：带队完成 10 余家本地企业调研，聚焦「部署简单、维护方便」的核心流程，负责技术选型（React / Vue）与核心模块实现。",
+      "highlights": [
+        "获第九届吉林省中华职业教育创新创业大赛三等奖"
+      ],
+      "keywords": ["React", "Vue", "企业管理", "低代码"],
+      "startDate": "2025",
+      "endDate": "2025",
+      "url": "",
+      "roles": ["项目负责人 / 核心开发"],
+      "entity": "竞赛团队",
+      "type": "application"
+    }
+  ]
+}
